@@ -14,7 +14,9 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.print("Hola esta es la tarea");
+       System.out.println("Hola esta es la tarea");
+       System.out.print("Hola");
+    
     }
     
 }
